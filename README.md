@@ -16,6 +16,7 @@ Elaborar un plan de trabajo basado en un esquema que asigne tareas claras a cada
 
 -	Reunión del equipo:
 Convocar una reunión para discutir y presentar diferentes enfoques para la implementación de la funcionalidad clave. Esta sesión debe centrarse en evaluar rápidamente las soluciones más viables, permitiendo que el equipo llegue a una decisión en un corto período de tiempo.
+
 -	Trabajo en equipo:
 Asignar tareas clave a cada miembro del equipo, aprovechando sus puntos fuertes y asegurando que trabajen en las áreas donde pueden aportar más valor. Esto permite una mejor distribución de la carga de trabajo y una mayor eficiencia en la ejecución.
 
